@@ -1,0 +1,25 @@
+{
+  "name": "sql-database",
+  "version": "1.0.0",
+  "description": "SQL database built with vanilla node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tictools/sql-database.git"
+  },
+  "keywords": [
+    "sql",
+    "database",
+    "patterns",
+    "node"
+  ],
+  "author": "tictools",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tictools/sql-database/issues"
+  },
+  "homepage": "https://github.com/tictools/sql-database#readme"
+}
